@@ -1,0 +1,6 @@
+User:all()
+use App\Models\User
+User::all()
+User::first()
+User::last()
+User::all()
